@@ -1,0 +1,21 @@
+{
+  "name": "いまはこれだけ",
+  "short_name": "これだけ",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#fff8fc",
+  "theme_color": "#f3a9c8",
+  "description": "ADHD向け、今日考えることを3つまでに絞る生活管理アプリ",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
